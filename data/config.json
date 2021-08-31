@@ -1,6 +1,6 @@
 {
     "title": "Stackbit Book Theme",
-    "layout_type": "boxed",
+    "layout_type": "full-width",
     "style": "classic",
     "palette": "gray",
     "mode": "light",
